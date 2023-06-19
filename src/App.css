@@ -35,6 +35,13 @@
 .App-link {
   color: #61dafb;
 }
+.newSheet{
+  width: 100%;
+  padding:20%
+}
+.class-list .highlighted{
+  color:red
+}
 
 @keyframes App-logo-spin {
   from {
